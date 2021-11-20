@@ -1,7 +1,7 @@
 <p align="center"><img src="https://cdn.svarun.dev/gh/actions.png" width="150px"/></p>
 
 # Dynamic ReadMe - ***Github Action***
- Convert Static Readme into Dynamic Readme 
+ Convert Static Readme into Dynamic Readme hi there
 
 ## Motivation
 As an open-source software developer I use GitHub Repositories extensively to store my projects. I maintain over 100 projects, of which, about 85% of them have standardised content for the README.md file. That being said, I am finding it increasingly tedious to add, update or remove content in the README.md files across all my repositories because of two main challenges:
